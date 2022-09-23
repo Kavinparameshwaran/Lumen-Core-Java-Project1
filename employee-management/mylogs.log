@@ -1,0 +1,1487 @@
+[INFO ] 2022-09-20 00:19:54.013 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:19:54.015 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:19:54.015 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:19:54.015 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:19:54.015 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:19:54.015 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:19:54.016 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:19:54.016 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:19:54.016 [main]  - Enter the number
+[INFO ] 2022-09-20 00:19:56.520 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-20 00:19:56.520 [main]  - First Name:
+[INFO ] 2022-09-20 00:20:01.920 [main]  - Last Name:
+[INFO ] 2022-09-20 00:20:05.620 [main]  - Address:
+[INFO ] 2022-09-20 00:20:11.259 [main]  - Email:
+[INFO ] 2022-09-20 00:20:18.025 [main]  - Phone Number:
+[INFO ] 2022-09-20 00:20:22.721 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-20 00:20:30.472 [main]  - Are you married? y/n
+[INFO ] 2022-09-20 00:20:41.057 [main]  - Wedding Date in the format (YYYY-MM-DD):
+[INFO ] 2022-09-20 00:21:31.110 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:21:31.111 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:21:31.111 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:21:31.112 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:21:31.112 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:21:31.112 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:21:31.112 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:21:31.112 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:21:31.112 [main]  - Enter the number
+[INFO ] 2022-09-20 00:21:33.903 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-20 00:21:33.903 [main]  - First Name:
+[INFO ] 2022-09-20 00:21:39.910 [main]  - Last Name:
+[INFO ] 2022-09-20 00:21:43.687 [main]  - Address:
+[INFO ] 2022-09-20 00:21:48.303 [main]  - Email:
+[INFO ] 2022-09-20 00:22:01.288 [main]  - Phone Number:
+[INFO ] 2022-09-20 00:22:06.832 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-20 00:22:14.702 [main]  - Are you married? y/n
+[INFO ] 2022-09-20 00:22:18.213 [main]  - Wedding Date in the format (YYYY-MM-DD):
+[INFO ] 2022-09-20 00:23:25.268 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:23:25.270 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:23:25.271 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:23:25.271 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:23:25.271 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:23:25.271 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:23:25.271 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:23:25.271 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:23:25.271 [main]  - Enter the number
+[INFO ] 2022-09-20 00:24:07.806 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:24:07.811 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:24:07.811 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:24:07.811 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:24:07.812 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:24:07.812 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:24:07.812 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:24:07.812 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:24:07.813 [main]  - Enter the number
+[INFO ] 2022-09-20 00:24:10.251 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-20 00:24:10.252 [main]  - First Name:
+[INFO ] 2022-09-20 00:24:15.411 [main]  - Last Name:
+[INFO ] 2022-09-20 00:24:17.968 [main]  - Address:
+[INFO ] 2022-09-20 00:24:22.991 [main]  - Email:
+[INFO ] 2022-09-20 00:24:29.269 [main]  - Phone Number:
+[INFO ] 2022-09-20 00:24:36.625 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-20 00:24:42.400 [main]  - Are you married? y/n
+[ERROR] 2022-09-20 00:24:48.786 [main]  - is Employee Created:=false
+[INFO ] 2022-09-20 00:24:48.786 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 00:31:07.944 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:31:07.947 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:31:07.947 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:31:07.948 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:31:07.948 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:31:07.948 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:31:07.948 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:31:07.949 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:31:07.949 [main]  - Enter the number
+[INFO ] 2022-09-20 00:31:11.041 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-20 00:31:11.041 [main]  - First Name:
+[INFO ] 2022-09-20 00:31:13.243 [main]  - Last Name:
+[INFO ] 2022-09-20 00:31:14.227 [main]  - Address:
+[INFO ] 2022-09-20 00:31:15.458 [main]  - Email:
+[INFO ] 2022-09-20 00:31:17.450 [main]  - Phone Number:
+[INFO ] 2022-09-20 00:31:19.593 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-20 00:31:31.797 [main]  - Are you married? y/n
+[ERROR] 2022-09-20 00:31:33.574 [main]  - is Employee Created:=false
+[INFO ] 2022-09-20 00:31:33.574 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 00:52:13.828 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:52:13.833 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:52:13.834 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:52:13.834 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:52:13.835 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:52:13.835 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:52:13.835 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:52:13.836 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:52:13.836 [main]  - Enter the number
+[INFO ] 2022-09-20 00:52:17.054 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-20 00:52:17.054 [main]  - First Name:
+[INFO ] 2022-09-20 00:52:36.557 [main]  - Last Name:
+[INFO ] 2022-09-20 00:52:43.113 [main]  - Address:
+[INFO ] 2022-09-20 00:52:52.032 [main]  - Email:
+[INFO ] 2022-09-20 00:52:58.935 [main]  - Phone Number:
+[INFO ] 2022-09-20 00:53:05.279 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-20 00:53:10.588 [main]  - Are you married? y/n
+[INFO ] 2022-09-20 00:53:20.426 [main]  - Wedding Date in the format (YYYY-MM-DD):
+[ERROR] 2022-09-20 00:53:38.926 [main]  - is Employee Created:=true
+[INFO ] 2022-09-20 00:53:38.927 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 00:54:44.079 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:54:44.082 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:54:44.082 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:54:44.082 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:54:44.083 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:54:44.083 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:54:44.083 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:54:44.083 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:54:44.083 [main]  - Enter the number
+[INFO ] 2022-09-20 00:54:46.571 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:54:46.572 [main]  - First Name:
+[INFO ] 2022-09-20 00:55:11.083 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:55:11.086 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:55:11.086 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:55:11.086 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:55:11.086 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:55:11.086 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:55:11.086 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:55:11.087 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:55:11.087 [main]  - Enter the number
+[INFO ] 2022-09-20 00:55:14.097 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:55:14.098 [main]  - First Name:
+[ERROR] 2022-09-20 00:55:17.168 [main]  - List of employees who are having first name as: kavin
+[ERROR] 2022-09-20 00:55:17.170 [main]  - Employee [firstName=kavin, lastName=p, address=kavettipatty,Namakkal, emailAddress=kavin@gmail.com, phoneNumber=5554466677, dateOfBirth=2000-02-20, weddingDate=2023-03-22]
+[INFO ] 2022-09-20 00:55:17.170 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 00:55:29.074 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:55:29.076 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:55:29.076 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:55:29.076 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:55:29.076 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:55:29.076 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:55:29.076 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:55:29.076 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:55:29.076 [main]  - Enter the number
+[INFO ] 2022-09-20 00:55:50.136 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-20 00:55:50.149 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-20 00:55:50.150 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 00:56:00.269 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:56:00.269 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:56:00.269 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:56:00.270 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:56:00.270 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:56:00.270 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:56:00.270 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:56:00.270 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:56:00.271 [main]  - Enter the number
+[INFO ] 2022-09-20 00:56:07.140 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:56:07.141 [main]  - Updated Email:
+[INFO ] 2022-09-20 00:56:17.976 [main]  - Phone Number:
+[INFO ] 2022-09-20 00:56:23.740 [main]  - Old Email:
+[ERROR] 2022-09-20 00:56:23.746 [main]  - Does an employee with email:  get updated:=false
+[INFO ] 2022-09-20 00:56:23.747 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 00:57:12.548 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 00:57:12.549 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 00:57:12.549 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 00:57:12.549 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 00:57:12.550 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:57:12.550 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 00:57:12.550 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 00:57:12.550 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 00:57:12.551 [main]  - Enter the number
+[INFO ] 2022-09-20 00:57:18.744 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 00:57:18.744 [main]  - Updated Email:
+[INFO ] 2022-09-20 00:57:33.261 [main]  - Phone Number:
+[INFO ] 2022-09-20 01:02:51.973 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:02:51.978 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:02:51.978 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:02:51.978 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:02:51.978 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:02:51.979 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:02:51.979 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:02:51.979 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:02:51.979 [main]  - Enter the number
+[INFO ] 2022-09-20 01:02:54.808 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:02:54.808 [main]  - Updated Email:
+[INFO ] 2022-09-20 01:03:07.216 [main]  - Phone Number:
+[INFO ] 2022-09-20 01:03:14.751 [main]  - Old Email:
+[ERROR] 2022-09-20 01:03:14.789 [main]  - Does an employee with email:  get updated:=false
+[INFO ] 2022-09-20 01:03:14.790 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:04:19.947 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:04:19.950 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:04:19.950 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:04:19.950 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:04:19.950 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:04:19.950 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:04:19.951 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:04:19.951 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:04:19.951 [main]  - Enter the number
+[INFO ] 2022-09-20 01:04:24.412 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:04:24.414 [main]  - Updated Email:
+[INFO ] 2022-09-20 01:04:32.156 [main]  - Phone Number:
+[INFO ] 2022-09-20 01:04:37.285 [main]  - Old Email:
+[ERROR] 2022-09-20 01:04:49.379 [main]  - Does an employee with email: kavin@gmail.com get updated:=true
+[INFO ] 2022-09-20 01:04:49.380 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:05:11.640 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:05:11.642 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:05:11.643 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:05:11.643 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:05:11.643 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:05:11.643 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:05:11.643 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:05:11.643 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:05:11.643 [main]  - Enter the number
+[INFO ] 2022-09-20 01:05:14.420 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:05:14.420 [main]  - First Name:
+[INFO ] 2022-09-20 01:05:21.019 [main]  - Email:
+[ERROR] 2022-09-20 01:05:35.494 [main]  - Does an employee with email: k get deleted:=false
+[INFO ] 2022-09-20 01:05:35.494 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:05:43.555 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:05:43.556 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:05:43.556 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:05:43.556 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:05:43.556 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:05:43.557 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:05:43.557 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:05:43.557 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:05:43.557 [main]  - Enter the number
+[INFO ] 2022-09-20 01:09:36.281 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:09:36.284 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:09:36.285 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:09:36.285 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:09:36.285 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:09:36.286 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:09:36.286 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:09:36.286 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:09:36.287 [main]  - Enter the number
+[INFO ] 2022-09-20 01:09:40.180 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:09:40.180 [main]  - Date Of Birth:
+[ERROR] 2022-09-20 01:10:09.627 [main]  - First name and Email of all employees who born on=2000-02-20
+[INFO ] 2022-09-20 01:10:09.628 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:10:22.462 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:10:22.462 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:10:22.462 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:10:22.462 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:10:22.462 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:10:22.463 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:10:22.463 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:10:22.463 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:10:22.463 [main]  - Enter the number
+[INFO ] 2022-09-20 01:10:27.042 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:10:27.043 [main]  - Wedding Date:
+[ERROR] 2022-09-20 01:10:41.874 [main]  - First name and PhoneNumber of all employees who got married on=2023-03-22
+[INFO ] 2022-09-20 01:10:41.874 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:13:10.000 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:13:10.000 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:13:10.000 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:13:10.000 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:13:10.001 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:13:10.001 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:13:10.001 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:13:10.001 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:13:10.001 [main]  - Enter the number
+[INFO ] 2022-09-20 01:13:14.411 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:13:14.412 [main]  - Wedding Date:
+[INFO ] 2022-09-20 01:13:21.983 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:13:21.986 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:13:21.987 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:13:21.987 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:13:21.987 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:13:21.987 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:13:21.987 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:13:21.987 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:13:21.988 [main]  - Enter the number
+[INFO ] 2022-09-20 01:13:28.320 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:13:28.321 [main]  - Wedding Date:
+[ERROR] 2022-09-20 01:13:41.510 [main]  - First name and PhoneNumber of all employees who got married on=2023-01-22
+[INFO ] 2022-09-20 01:13:41.511 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:17:19.551 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:17:19.554 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:17:19.554 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:17:19.554 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:17:19.555 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:17:19.555 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:17:19.555 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:17:19.555 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:17:19.555 [main]  - Enter the number
+[INFO ] 2022-09-20 01:17:26.205 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:17:26.205 [main]  - Wedding Date:
+[ERROR] 2022-09-20 01:17:39.580 [main]  - First name and PhoneNumber of all employees who got married on=2023-01-22
+[INFO ] 2022-09-20 01:17:39.581 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:18:25.900 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:18:25.903 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:18:25.903 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:18:25.903 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:18:25.904 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:18:25.904 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:18:25.904 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:18:25.904 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:18:25.904 [main]  - Enter the number
+[INFO ] 2022-09-20 01:18:28.979 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:18:28.979 [main]  - First Name:
+[INFO ] 2022-09-20 01:18:38.949 [main]  - Email:
+[ERROR] 2022-09-20 01:20:38.028 [main]  - Does an employee with email: sab@gmail.com get deleted:=true
+[INFO ] 2022-09-20 01:20:38.029 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:22:22.790 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:22:22.793 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:22:22.793 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:22:22.793 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:22:22.793 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:22:22.794 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:22:22.794 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:22:22.795 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:22:22.795 [main]  - Enter the number
+[INFO ] 2022-09-20 01:22:28.722 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:22:28.723 [main]  - First Name:
+[INFO ] 2022-09-20 01:24:18.804 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:24:18.808 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:24:18.809 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:24:18.810 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:24:18.810 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:24:18.810 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:24:18.811 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:24:18.811 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:24:18.811 [main]  - Enter the number
+[INFO ] 2022-09-20 01:24:24.492 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:24:24.493 [main]  - Updated Email:
+[INFO ] 2022-09-20 01:24:27.081 [main]  - Phone Number:
+[INFO ] 2022-09-20 01:24:42.910 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:24:42.913 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:24:42.914 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:24:42.914 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:24:42.914 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:24:42.914 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:24:42.915 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:24:42.915 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:24:42.915 [main]  - Enter the number
+[INFO ] 2022-09-20 01:24:45.052 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:24:45.052 [main]  - Updated Email:
+[INFO ] 2022-09-20 01:24:50.688 [main]  - Phone Number:
+[INFO ] 2022-09-20 01:24:53.468 [main]  - Old Email:
+[ERROR] 2022-09-20 01:24:55.629 [main]  - Does an employee with email: rr get updated:=false
+[INFO ] 2022-09-20 01:24:55.629 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:25:07.990 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:25:07.991 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:25:07.991 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:25:07.991 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:25:07.991 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:25:07.991 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:25:07.991 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:25:07.991 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:25:07.992 [main]  - Enter the number
+[INFO ] 2022-09-20 01:25:18.853 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:25:18.854 [main]  - First Name:
+[INFO ] 2022-09-20 01:25:21.950 [main]  - Email:
+[ERROR] 2022-09-20 01:25:23.539 [main]  - Does an employee with email: rr get deleted:=false
+[INFO ] 2022-09-20 01:25:23.539 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-20 01:33:16.974 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:33:16.977 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:33:16.977 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:33:16.977 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:33:16.977 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:33:16.978 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:33:16.978 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:33:16.978 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:33:16.978 [main]  - Enter the number
+[INFO ] 2022-09-20 01:33:23.101 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:33:23.102 [main]  - First Name:
+[INFO ] 2022-09-20 01:35:00.599 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-20 01:35:00.604 [main]  - 1->Add Employee
+[INFO ] 2022-09-20 01:35:00.604 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-20 01:35:00.604 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-20 01:35:00.605 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-20 01:35:00.605 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-20 01:35:00.605 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:35:00.605 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-20 01:35:00.605 [main]  - Enter the number
+[INFO ] 2022-09-20 01:35:09.262 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-20 01:35:09.263 [main]  - Date Of Birth:
+[INFO ] 2022-09-21 19:57:03.104 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 19:57:03.109 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 19:57:03.109 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 19:57:03.109 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 19:57:03.110 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 19:57:03.110 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 19:57:03.110 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 19:57:03.110 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 19:57:03.111 [main]  - Enter the number
+[INFO ] 2022-09-21 19:57:12.916 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 19:57:12.916 [main]  - First Name:
+[ERROR] 2022-09-21 19:57:41.349 [main]  - List of employees who are having first name as: kavin
+[ERROR] 2022-09-21 19:57:41.351 [main]  - Employee [firstName=kavin, lastName=p, address=kavettipatty,Namakkal, emailAddress=kavin123@gmail.com, phoneNumber=8887776644, dateOfBirth=2000-02-20, weddingDate=2023-03-22]
+[INFO ] 2022-09-21 19:57:41.351 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-21 19:57:49.264 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 19:57:49.265 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 19:57:49.265 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 19:57:49.265 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 19:57:49.265 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 19:57:49.265 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 19:57:49.265 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 19:57:49.265 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 19:57:49.267 [main]  - Enter the number
+[INFO ] 2022-09-21 19:57:55.026 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 19:57:55.027 [main]  - First Name:
+[ERROR] 2022-09-21 19:57:57.762 [main]  - List of employees who are having first name as: uu
+[INFO ] 2022-09-21 19:57:57.762 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-21 19:58:05.083 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-21 20:10:20.290 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 20:10:20.293 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 20:10:20.294 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 20:10:20.295 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 20:10:20.295 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 20:10:20.295 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 20:10:20.295 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 20:10:20.295 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 20:10:20.296 [main]  - Enter the number
+[INFO ] 2022-09-21 20:10:23.426 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-21 20:10:23.473 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-21 20:10:23.475 [main]  - Do you want to continue? y/n
+[INFO ] 2022-09-21 20:10:36.554 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-21 21:52:37.817 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 21:52:37.820 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 21:52:37.820 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 21:52:37.821 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 21:52:37.821 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 21:52:37.821 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 21:52:37.821 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 21:52:37.821 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 21:52:37.822 [main]  - Enter the number
+[INFO ] 2022-09-21 21:52:45.975 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-21 21:52:45.975 [main]  - First Name:
+[INFO ] 2022-09-21 21:53:00.269 [main]  - Last Name:
+[INFO ] 2022-09-21 21:53:03.766 [main]  - Address:
+[INFO ] 2022-09-21 21:53:07.823 [main]  - Email:
+[INFO ] 2022-09-21 21:56:06.236 [main]  - Phone Number:
+[INFO ] 2022-09-21 21:56:10.531 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-21 21:56:22.404 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-21 21:56:36.366 [main]  - Wedding Date in the format (YYYY-MM-DD):
+[ERROR] 2022-09-21 21:57:43.519 [main]  - is Employee Created:=false
+[INFO ] 2022-09-21 21:57:43.519 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-21 22:01:17.139 [main]  - Provide valid option
+[INFO ] 2022-09-21 22:01:17.139 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 22:01:17.139 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 22:01:17.140 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 22:01:17.140 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 22:01:17.140 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 22:01:17.140 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 22:01:17.140 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 22:01:17.140 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 22:01:17.140 [main]  - Enter the number
+[INFO ] 2022-09-21 22:02:35.137 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-21 22:02:45.671 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-21 22:19:15.163 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 22:19:15.168 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 22:19:15.168 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 22:19:15.168 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 22:19:15.168 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 22:19:15.169 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 22:19:15.169 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 22:19:15.169 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 22:19:15.169 [main]  - Enter the number
+[INFO ] 2022-09-21 22:19:23.540 [main]  - ONLY ENTER THE NUMBER BETWEEN 
+[INFO ] 2022-09-21 22:19:23.541 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-21 22:19:30.199 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-21 23:17:52.030 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:17:52.033 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:17:52.033 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:17:52.033 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:17:52.033 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:17:52.033 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:17:52.033 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:17:52.033 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:17:52.034 [main]  - Enter the number
+[INFO ] 2022-09-21 23:17:56.156 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-21 23:17:56.156 [main]  - First Name:
+[INFO ] 2022-09-21 23:17:58.746 [main]  - Last Name:
+[INFO ] 2022-09-21 23:18:00.272 [main]  - Address:
+[INFO ] 2022-09-21 23:18:02.251 [main]  - Email:
+[INFO ] 2022-09-21 23:18:04.485 [main]  - Phone Number:
+[INFO ] 2022-09-21 23:18:08.204 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-21 23:18:16.754 [main]  - Are you married? y/n or Y/N
+[ERROR] 2022-09-21 23:18:22.226 [main]  - is Employee Created:=false
+[INFO ] 2022-09-21 23:18:22.226 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-21 23:18:45.115 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:18:45.115 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:18:45.115 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:18:45.116 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:18:45.117 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:18:45.117 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:18:45.117 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:18:45.117 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:18:45.117 [main]  - Enter the number
+[INFO ] 2022-09-21 23:18:52.338 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-21 23:18:52.338 [main]  - First Name:
+[INFO ] 2022-09-21 23:18:54.801 [main]  - Last Name:
+[INFO ] 2022-09-21 23:18:55.990 [main]  - Address:
+[INFO ] 2022-09-21 23:18:57.194 [main]  - Email:
+[INFO ] 2022-09-21 23:18:58.309 [main]  - Phone Number:
+[INFO ] 2022-09-21 23:19:02.555 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-21 23:19:31.508 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:19:31.510 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:19:31.510 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:19:31.510 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:19:31.510 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:19:31.510 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:19:31.510 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:19:31.511 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:19:31.511 [main]  - Enter the number
+[INFO ] 2022-09-21 23:19:54.195 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-21 23:19:54.195 [main]  - First Name:
+[INFO ] 2022-09-21 23:19:56.131 [main]  - Last Name:
+[INFO ] 2022-09-21 23:19:57.167 [main]  - Address:
+[INFO ] 2022-09-21 23:19:58.194 [main]  - Email:
+[INFO ] 2022-09-21 23:19:59.433 [main]  - Phone Number:
+[INFO ] 2022-09-21 23:20:02.356 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-21 23:20:08.485 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-21 23:20:11.808 [main]  - Wedding Date in the format (YYYY-MM-DD):
+[ERROR] 2022-09-21 23:20:18.069 [main]  - is Employee Created:=false
+[INFO ] 2022-09-21 23:20:18.069 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-21 23:20:22.541 [main]  - PROVIDE VALID OPTION!!!!!!!!!!!
+[INFO ] 2022-09-21 23:20:22.541 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-21 23:20:26.275 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:20:26.276 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:20:26.276 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:20:26.276 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:20:26.276 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:20:26.276 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:20:26.276 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:20:26.276 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:20:26.276 [main]  - Enter the number
+[INFO ] 2022-09-21 23:23:37.360 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-21 23:23:37.360 [main]  - First Name:
+[INFO ] 2022-09-21 23:24:02.100 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:24:02.103 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:24:02.103 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:24:02.103 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:24:02.103 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:24:02.103 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:24:02.103 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:24:02.104 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:24:02.104 [main]  - Enter the number
+[INFO ] 2022-09-21 23:24:04.489 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-21 23:24:04.489 [main]  - First Name:
+[INFO ] 2022-09-21 23:24:07.163 [main]  - Last Name:
+[INFO ] 2022-09-21 23:24:08.593 [main]  - Address:
+[INFO ] 2022-09-21 23:24:10.361 [main]  - Email:
+[INFO ] 2022-09-21 23:24:14.184 [main]  - Phone Number:
+[INFO ] 2022-09-21 23:24:17.090 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-21 23:24:24.854 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-21 23:24:27.763 [main]  - Wedding Date in the format (YYYY-MM-DD):
+[ERROR] 2022-09-21 23:24:36.697 [main]  - is Employee Created:=false
+[INFO ] 2022-09-21 23:24:36.697 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-21 23:31:35.582 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:31:35.585 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:31:35.585 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:31:35.585 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:31:35.586 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:31:35.586 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:31:35.586 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:31:35.586 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:31:35.586 [main]  - Enter the number
+[INFO ] 2022-09-21 23:31:40.530 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-21 23:31:40.531 [main]  - First Name:
+[INFO ] 2022-09-21 23:32:04.324 [main]  - Last Name:
+[INFO ] 2022-09-21 23:32:11.753 [main]  - Address:
+[INFO ] 2022-09-21 23:32:18.412 [main]  - Email:
+[INFO ] 2022-09-21 23:32:28.037 [main]  - Phone Number:
+[INFO ] 2022-09-21 23:32:33.683 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-21 23:32:40.928 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-21 23:32:42.879 [main]  - Wedding Date in the format (YYYY-MM-DD):
+[ERROR] 2022-09-21 23:32:49.491 [main]  - is Employee Created:=true
+[INFO ] 2022-09-21 23:32:49.491 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-21 23:33:02.474 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:33:02.474 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:33:02.474 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:33:02.475 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:33:02.475 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:33:02.475 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:33:02.475 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:33:02.476 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:33:02.476 [main]  - Enter the number
+[INFO ] 2022-09-21 23:33:12.383 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-21 23:33:12.384 [main]  - First Name:
+[INFO ] 2022-09-21 23:33:16.895 [main]  - Last Name:
+[INFO ] 2022-09-21 23:33:18.390 [main]  - Address:
+[INFO ] 2022-09-21 23:33:20.032 [main]  - Email:
+[INFO ] 2022-09-21 23:33:28.340 [main]  - Phone Number:
+[INFO ] 2022-09-21 23:34:13.815 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-21 23:34:24.777 [main]  - Are you married? y/n or Y/N
+[ERROR] 2022-09-21 23:34:26.614 [main]  - is Employee Created:=true
+[INFO ] 2022-09-21 23:34:26.614 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:34:26.614 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:34:26.614 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:34:26.617 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:34:26.617 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:34:26.618 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:34:26.619 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:34:26.619 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:34:26.619 [main]  - Enter the number
+[INFO ] 2022-09-21 23:40:37.734 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:40:37.738 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:40:37.738 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:40:37.738 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:40:37.739 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:40:37.739 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:40:37.739 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:40:37.740 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:40:37.740 [main]  - Enter the number
+[INFO ] 2022-09-21 23:40:50.097 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:41:53.315 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-21 23:41:53.318 [main]  - 1->Add Employee
+[INFO ] 2022-09-21 23:41:53.319 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-21 23:41:53.319 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-21 23:41:53.319 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-21 23:41:53.319 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-21 23:41:53.319 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-21 23:41:53.319 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-21 23:41:53.319 [main]  - Enter the number
+[INFO ] 2022-09-21 23:41:55.920 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:11:38.249 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:11:38.253 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:11:38.253 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:11:38.253 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:11:38.253 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:11:38.254 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:11:38.254 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:11:38.255 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:11:38.255 [main]  - Enter the number
+[INFO ] 2022-09-22 00:11:46.410 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 00:11:46.446 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 00:11:46.448 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:11:59.296 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:11:59.297 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:11:59.297 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:11:59.297 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:11:59.297 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:11:59.297 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:11:59.298 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:11:59.298 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:11:59.298 [main]  - Enter the number
+[INFO ] 2022-09-22 00:12:10.220 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:12:10.221 [main]  - First Name:
+[INFO ] 2022-09-22 00:12:19.592 [main]  - Email:
+[ERROR] 2022-09-22 00:13:09.209 [main]  - Does an employee with email: uuu get deleted:=false
+[INFO ] 2022-09-22 00:13:09.210 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:13:09.210 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:13:09.210 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:13:09.210 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:13:09.210 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:13:09.211 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:13:09.211 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:13:09.212 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:13:09.212 [main]  - Enter the number
+[INFO ] 2022-09-22 00:13:28.960 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 00:13:28.964 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 00:13:28.966 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:18:28.621 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:18:28.624 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:18:28.624 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:18:28.625 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:18:28.625 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:18:28.625 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:18:28.625 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:18:28.625 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:18:28.625 [main]  - Enter the number
+[INFO ] 2022-09-22 00:18:33.740 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 00:18:33.781 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 00:18:33.783 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:18:39.503 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:18:39.504 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:18:39.504 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:18:39.504 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:18:39.505 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:18:39.505 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:18:39.505 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:18:39.506 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:18:39.506 [main]  - Enter the number
+[INFO ] 2022-09-22 00:18:46.840 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:18:46.841 [main]  - First Name:
+[INFO ] 2022-09-22 00:18:49.954 [main]  - Email:
+[ERROR] 2022-09-22 00:18:54.542 [main]  - Does an employee with email: uu get deleted:=false
+[INFO ] 2022-09-22 00:18:54.542 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:18:54.542 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:18:54.542 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:18:54.547 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:18:54.547 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:18:54.547 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:18:54.547 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:18:54.547 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:18:54.547 [main]  - Enter the number
+[INFO ] 2022-09-22 00:21:12.748 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:21:12.748 [main]  - First Name:
+[ERROR] 2022-09-22 00:21:18.994 [main]  - List of employees who are having first name as: yyyy
+[INFO ] 2022-09-22 00:21:18.994 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:21:37.551 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:21:37.551 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:21:37.552 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:21:37.552 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:21:37.552 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:21:37.553 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:21:37.553 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:21:37.553 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:21:37.553 [main]  - Enter the number
+[INFO ] 2022-09-22 00:21:42.655 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:21:42.655 [main]  - First Name:
+[ERROR] 2022-09-22 00:21:49.244 [main]  - List of employees who are having first name as: yyy
+[INFO ] 2022-09-22 00:21:49.244 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:21:49.245 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:21:49.245 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:21:49.245 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:21:49.245 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:21:49.246 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:21:49.246 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:21:49.246 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:21:49.246 [main]  - Enter the number
+[INFO ] 2022-09-22 00:23:24.529 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:23:24.533 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:23:24.533 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:23:24.533 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:23:24.533 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:23:24.533 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:23:24.534 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:23:24.534 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:23:24.534 [main]  - Enter the number
+[INFO ] 2022-09-22 00:23:31.611 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:23:31.612 [main]  - First Name:
+[ERROR] 2022-09-22 00:23:36.731 [main]  - List of employees who are having first name as: oooo
+[INFO ] 2022-09-22 00:23:36.732 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:23:47.451 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:23:47.452 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:23:47.452 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:23:47.453 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:23:47.453 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:23:47.453 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:23:47.453 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:23:47.454 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:23:47.455 [main]  - Enter the number
+[INFO ] 2022-09-22 00:23:51.696 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:23:51.696 [main]  - First Name:
+[INFO ] 2022-09-22 00:24:01.853 [main]  - Email:
+[ERROR] 2022-09-22 00:24:06.146 [main]  - Does an employee with email: yyyyy get deleted:=false
+[INFO ] 2022-09-22 00:24:06.147 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:24:06.148 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:24:06.148 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:24:06.148 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:24:06.149 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:24:06.149 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:24:06.149 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:24:06.149 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:24:06.150 [main]  - Enter the number
+[INFO ] 2022-09-22 00:28:14.865 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:28:14.870 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:28:14.870 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:28:14.870 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:28:14.870 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:28:14.870 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:28:14.870 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:28:14.870 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:28:14.870 [main]  - Enter the number
+[INFO ] 2022-09-22 00:28:18.015 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:28:18.015 [main]  - First Name:
+[INFO ] 2022-09-22 00:28:20.613 [main]  - Email:
+[INFO ] 2022-09-22 00:28:24.175 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:29:28.800 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:29:28.804 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:29:28.804 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:29:28.804 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:29:28.805 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:29:28.805 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:29:28.805 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:29:28.805 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:29:28.805 [main]  - Enter the number
+[INFO ] 2022-09-22 00:29:36.078 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:29:36.078 [main]  - First Name:
+[INFO ] 2022-09-22 00:29:39.556 [main]  - Email:
+[INFO ] 2022-09-22 00:29:43.498 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:29:54.558 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:29:54.559 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:29:54.559 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:29:54.559 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:29:54.559 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:29:54.559 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:29:54.560 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:29:54.560 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:29:54.560 [main]  - Enter the number
+[INFO ] 2022-09-22 00:30:06.053 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:30:06.053 [main]  - First Name:
+[INFO ] 2022-09-22 00:30:09.465 [main]  - Email:
+[ERROR] 2022-09-22 00:30:11.713 [main]  - Does an employee with email: eeee get deleted:=true
+[INFO ] 2022-09-22 00:30:11.713 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:30:11.714 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:30:11.714 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:30:11.715 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:30:11.715 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:30:11.715 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:30:11.716 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:30:11.716 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:30:11.716 [main]  - Enter the number
+[INFO ] 2022-09-22 00:35:24.702 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:35:24.709 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:35:24.709 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:35:24.710 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:35:24.710 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:35:24.710 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:35:24.710 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:35:24.711 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:35:24.711 [main]  - Enter the number
+[INFO ] 2022-09-22 00:35:27.829 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:35:27.829 [main]  - First Name:
+[INFO ] 2022-09-22 00:35:58.124 [main]  - Email:
+[ERROR] 2022-09-22 00:36:01.960 [main]  - Does an employee with email: raki@gmail.com get deleted:=true
+[INFO ] 2022-09-22 00:36:01.961 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:36:55.920 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:36:55.921 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:36:55.921 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:36:55.921 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:36:55.921 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:36:55.921 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:36:55.921 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:36:55.922 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:36:55.922 [main]  - Enter the number
+[INFO ] 2022-09-22 00:37:07.865 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 00:37:07.884 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 00:37:07.885 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:37:07.885 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:37:07.885 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:37:07.886 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:37:07.886 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:37:07.886 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:37:07.888 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:37:07.888 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:37:07.888 [main]  - Enter the number
+[INFO ] 2022-09-22 00:50:54.540 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:50:54.547 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:50:54.547 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:50:54.547 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:50:54.547 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:50:54.548 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:50:54.548 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:50:54.548 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:50:54.548 [main]  - Enter the number
+[INFO ] 2022-09-22 00:51:07.048 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 00:51:07.081 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 00:51:07.082 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:51:14.253 [main]  - PROVIDE VALID OPTION!!!!!!!!!!!
+[INFO ] 2022-09-22 00:51:14.253 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:51:17.889 [main]  - PROVIDE VALID OPTION!!!!!!!!!!!
+[INFO ] 2022-09-22 00:51:17.889 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:51:26.190 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:51:26.191 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:51:26.191 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:51:26.191 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:51:26.191 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:51:26.191 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:51:26.192 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:51:26.192 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:51:26.192 [main]  - Enter the number
+[INFO ] 2022-09-22 00:51:35.226 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:51:35.226 [main]  - Updated Email:
+[INFO ] 2022-09-22 00:51:54.006 [main]  - Phone Number:
+[INFO ] 2022-09-22 00:52:01.277 [main]  - Old Email:
+[ERROR] 2022-09-22 00:52:21.441 [main]  - Does an employee with email: iii get updated:=true
+[INFO ] 2022-09-22 00:52:21.441 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:52:39.444 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:52:39.445 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:52:39.445 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:52:39.445 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:52:39.445 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:52:39.445 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:52:39.446 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:52:39.446 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:52:39.449 [main]  - Enter the number
+[INFO ] 2022-09-22 00:52:52.662 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:52:52.663 [main]  - Updated Email:
+[INFO ] 2022-09-22 00:52:56.369 [main]  - Phone Number:
+[INFO ] 2022-09-22 00:52:58.617 [main]  - Old Email:
+[INFO ] 2022-09-22 00:53:02.842 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:57:20.283 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:57:20.291 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:57:20.291 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:57:20.291 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:57:20.291 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:57:20.292 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:57:20.292 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:57:20.292 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:57:20.292 [main]  - Enter the number
+[INFO ] 2022-09-22 00:57:24.233 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:57:24.234 [main]  - Date Of Birth:
+[ERROR] 2022-09-22 00:57:27.253 [main]  - First name and PhoneNumber of all employees who have born on=2001-01-25
+[INFO ] 2022-09-22 00:57:27.254 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 00:57:32.484 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 00:57:32.484 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 00:57:32.484 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 00:57:32.484 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 00:57:32.485 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 00:57:32.485 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 00:57:32.485 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 00:57:32.486 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:57:32.486 [main]  - Enter the number
+[INFO ] 2022-09-22 00:57:34.961 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 00:57:34.961 [main]  - Wedding Date:
+[ERROR] 2022-09-22 00:57:48.190 [main]  - First name and PhoneNumber of all employees who got married on=2028-03-27
+[INFO ] 2022-09-22 00:57:48.191 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 01:00:30.764 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 01:00:30.770 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 01:00:30.771 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 01:00:30.771 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 01:00:30.771 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 01:00:30.771 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 01:00:30.772 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 01:00:30.772 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 01:00:30.772 [main]  - Enter the number
+[INFO ] 2022-09-22 01:00:35.905 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 01:00:35.905 [main]  - Wedding Date:
+[ERROR] 2022-09-22 01:00:39.451 [main]  - First name and PhoneNumber of all employees who got married on=2028-03-27
+[INFO ] 2022-09-22 01:00:39.452 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 01:00:50.983 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-22 01:00:50.984 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 01:00:50.984 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 01:00:50.984 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 01:00:50.984 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 01:00:50.984 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 01:00:50.984 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 01:00:50.984 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 01:00:50.984 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 01:00:50.985 [main]  - Enter the number
+[INFO ] 2022-09-22 01:11:42.613 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 01:11:42.616 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 01:11:42.617 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 01:11:42.617 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 01:11:42.617 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 01:11:42.617 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 01:11:42.617 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 01:11:42.618 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 01:11:42.618 [main]  - Enter the number
+[INFO ] 2022-09-22 01:11:45.225 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 01:11:45.266 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 01:11:45.268 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 01:11:48.871 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-22 01:12:11.379 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 01:12:11.385 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 01:12:11.385 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 01:12:11.386 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 01:12:11.386 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 01:12:11.386 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 01:12:11.386 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 01:12:11.386 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 01:12:11.386 [main]  - Enter the number
+[INFO ] 2022-09-22 01:12:30.639 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 01:12:30.645 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 01:12:30.645 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 01:12:30.645 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 01:12:30.646 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 01:12:30.646 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 01:12:30.646 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 01:12:30.646 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 01:12:30.646 [main]  - Enter the number
+[INFO ] 2022-09-22 01:12:33.562 [main]  - ONLY ENTER THE NUMBER BETWEEN 1 TO 7!!!!!!!!!
+[INFO ] 2022-09-22 01:12:33.562 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 01:12:33.562 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 01:12:33.563 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 01:12:33.563 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 01:12:33.563 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 01:12:33.564 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 01:12:33.564 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 01:12:33.564 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 01:12:33.564 [main]  - Enter the number
+[INFO ] 2022-09-22 01:12:45.739 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 01:12:45.778 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 01:12:45.780 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 01:12:48.571 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 01:12:48.571 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 01:12:48.572 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 01:12:48.572 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 01:12:48.572 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 01:12:48.572 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 01:12:48.572 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 01:12:48.573 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 01:12:48.573 [main]  - Enter the number
+[INFO ] 2022-09-22 01:12:58.407 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 01:12:58.407 [main]  - First Name:
+[ERROR] 2022-09-22 01:13:00.947 [main]  - List of employees who are having first name as: uu
+[INFO ] 2022-09-22 01:13:00.947 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 01:13:07.440 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-22 01:13:07.441 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 17:11:46.250 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 17:11:46.255 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 17:11:46.256 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 17:11:46.256 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 17:11:46.256 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 17:11:46.256 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 17:11:46.257 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 17:11:46.257 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 17:11:46.257 [main]  - Enter the number
+[INFO ] 2022-09-22 17:11:55.112 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 17:11:55.211 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 17:11:55.212 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 17:11:57.889 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 17:11:57.889 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 17:11:57.890 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 17:11:57.890 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 17:11:57.890 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 17:11:57.890 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 17:11:57.891 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 17:11:57.891 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 17:11:57.891 [main]  - Enter the number
+[INFO ] 2022-09-22 17:12:11.132 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 17:12:11.132 [main]  - Updated Email:
+[INFO ] 2022-09-22 17:12:13.761 [main]  - Phone Number:
+[INFO ] 2022-09-22 17:12:18.934 [main]  - Old Email:
+[INFO ] 2022-09-22 17:12:22.068 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 17:20:22.014 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-22 17:20:22.015 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 17:20:22.015 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 17:20:22.015 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 17:20:22.015 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 17:20:22.016 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 17:20:22.016 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 17:20:22.016 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 17:20:22.016 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 17:20:22.017 [main]  - Enter the number
+[INFO ] 2022-09-22 19:54:49.725 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 19:54:49.729 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 19:54:49.730 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 19:54:49.730 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 19:54:49.731 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 19:54:49.731 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 19:54:49.731 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 19:54:49.732 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 19:54:49.732 [main]  - Enter the number
+[INFO ] 2022-09-22 19:54:56.829 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-22 19:54:56.830 [main]  - First Name:
+[INFO ] 2022-09-22 19:55:10.677 [main]  - Last Name:
+[INFO ] 2022-09-22 19:55:12.288 [main]  - Address:
+[INFO ] 2022-09-22 19:55:16.235 [main]  - Email:
+[INFO ] 2022-09-22 19:55:20.222 [main]  - Phone Number:
+[INFO ] 2022-09-22 19:55:25.303 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-22 19:55:41.275 [main]  - Are you married? y/n or Y/N
+[ERROR] 2022-09-22 19:55:52.148 [main]  - is Employee Created:=true
+[INFO ] 2022-09-22 19:55:52.149 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 19:56:57.044 [main]  - PROVIDE VALID OPTION!!!!!!!!!!!
+[INFO ] 2022-09-22 19:56:57.045 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 19:57:05.772 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 19:57:05.772 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 19:57:05.773 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 19:57:05.773 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 19:57:05.773 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 19:57:05.773 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 19:57:05.774 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 19:57:05.774 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 19:57:05.774 [main]  - Enter the number
+[INFO ] 2022-09-22 19:57:10.891 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 19:57:10.892 [main]  - First Name:
+[ERROR] 2022-09-22 19:57:17.944 [main]  - List of employees who are having first name as: kavin
+[ERROR] 2022-09-22 19:57:17.963 [main]  - Employee [firstName=kavin, lastName=parameshwaran, address=Namakkal, emailAddress=dhoni@gmail.com, phoneNumber=88887776656, dateOfBirth=2001-01-25, weddingDate=2028-03-27]
+[ERROR] 2022-09-22 19:57:17.964 [main]  - Employee [firstName=kavin, lastName=p, address=kavettipatty,Namakkal, emailAddress=kavin123@gmail.com, phoneNumber=8887776644, dateOfBirth=2000-02-20, weddingDate=2023-03-22]
+[INFO ] 2022-09-22 19:57:17.964 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 19:57:32.294 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 19:57:32.295 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 19:57:32.295 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 19:57:32.296 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 19:57:32.297 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 19:57:32.297 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 19:57:32.297 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 19:57:32.298 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 19:57:32.298 [main]  - Enter the number
+[INFO ] 2022-09-22 19:57:43.083 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 19:57:43.091 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 19:57:43.092 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 19:57:55.494 [main]  - PROVIDE VALID OPTION!!!!!!!!!!!
+[INFO ] 2022-09-22 19:57:55.494 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 19:57:59.035 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 19:57:59.036 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 19:57:59.036 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 19:57:59.036 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 19:57:59.036 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 19:57:59.036 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 19:57:59.037 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 19:57:59.037 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 19:57:59.037 [main]  - Enter the number
+[INFO ] 2022-09-22 19:58:03.515 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 19:58:03.515 [main]  - Updated Email:
+[INFO ] 2022-09-22 19:58:30.060 [main]  - Phone Number:
+[INFO ] 2022-09-22 19:58:35.752 [main]  - Old Email:
+[ERROR] 2022-09-22 19:58:45.233 [main]  - Does an employee with email: aaaa@gg get updated:=true
+[INFO ] 2022-09-22 19:58:45.233 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 19:58:56.181 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 19:58:56.181 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 19:58:56.181 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 19:58:56.182 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 19:58:56.182 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 19:58:56.182 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 19:58:56.182 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 19:58:56.182 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 19:58:56.182 [main]  - Enter the number
+[INFO ] 2022-09-22 19:59:05.275 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 19:59:05.275 [main]  - First Name:
+[INFO ] 2022-09-22 19:59:10.114 [main]  - Email:
+[ERROR] 2022-09-22 19:59:26.789 [main]  - Does an employee with email: awe@gmail.com get deleted:=true
+[INFO ] 2022-09-22 19:59:26.790 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 19:59:44.085 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 19:59:44.086 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 19:59:44.087 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 19:59:44.087 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 19:59:44.087 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 19:59:44.087 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 19:59:44.088 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 19:59:44.088 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 19:59:44.088 [main]  - Enter the number
+[INFO ] 2022-09-22 19:59:48.476 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 19:59:48.476 [main]  - Date Of Birth:
+[ERROR] 2022-09-22 19:59:59.460 [main]  - First name and PhoneNumber of all employees who have born on=2000-02-20
+[INFO ] 2022-09-22 19:59:59.461 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 20:00:10.553 [main]  - PROVIDE VALID OPTION!!!!!!!!!!!
+[INFO ] 2022-09-22 20:00:10.554 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 20:00:19.000 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 20:00:19.001 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 20:00:19.001 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 20:00:19.001 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 20:00:19.002 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 20:00:19.002 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 20:00:19.002 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 20:00:19.002 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 20:00:19.002 [main]  - Enter the number
+[INFO ] 2022-09-22 20:00:24.449 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 20:00:24.449 [main]  - Wedding Date:
+[ERROR] 2022-09-22 20:00:27.304 [main]  - First name and PhoneNumber of all employees who got married on=2023-03-22
+[INFO ] 2022-09-22 20:00:27.306 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 20:00:31.648 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-22 20:00:31.677 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 20:00:31.678 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 20:00:31.678 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 20:00:31.678 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 20:00:31.678 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 20:00:31.678 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 20:00:31.678 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 20:00:31.678 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 20:00:31.678 [main]  - Enter the number
+[INFO ] 2022-09-22 20:24:32.320 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 20:24:32.323 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 20:24:32.324 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 20:24:32.324 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 20:24:32.324 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 20:24:32.324 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 20:24:32.324 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 20:24:32.325 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 20:24:32.325 [main]  - Enter the number
+[INFO ] 2022-09-22 20:24:34.522 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-22 20:24:34.522 [main]  - First Name:
+[INFO ] 2022-09-22 20:24:41.334 [main]  - Last Name:
+[INFO ] 2022-09-22 20:24:51.566 [main]  - Address:
+[INFO ] 2022-09-22 20:24:58.322 [main]  - Email:
+[INFO ] 2022-09-22 20:25:02.679 [main]  - Phone Number:
+[INFO ] 2022-09-22 21:52:57.487 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 21:52:57.491 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 21:52:57.491 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 21:52:57.491 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 21:52:57.491 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 21:52:57.491 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 21:52:57.491 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 21:52:57.491 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 21:52:57.491 [main]  - Enter the number
+[INFO ] 2022-09-22 21:53:03.906 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 21:53:03.927 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 21:53:03.929 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 21:53:19.030 [main]  - PROVIDE VALID OPTION!!!!!!!!!!!
+[INFO ] 2022-09-22 21:53:19.030 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 21:53:30.910 [main]  - PROVIDE VALID OPTION!!!!!!!!!!!
+[INFO ] 2022-09-22 21:53:30.910 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 21:54:58.457 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 21:54:58.457 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 21:54:58.457 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 21:54:58.457 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 21:54:58.458 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 21:54:58.458 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 21:54:58.458 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 21:54:58.458 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 21:54:58.458 [main]  - Enter the number
+[INFO ] 2022-09-22 21:55:11.190 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 21:55:11.192 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 21:55:11.193 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 21:55:15.464 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-22 21:55:24.653 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 21:55:24.655 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 21:55:24.655 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 21:55:24.656 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 21:55:24.656 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 21:55:24.656 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 21:55:24.656 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 21:55:24.656 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 21:55:24.656 [main]  - Enter the number
+[INFO ] 2022-09-22 21:55:27.275 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-22 21:55:27.275 [main]  - First Name:
+[INFO ] 2022-09-22 22:04:43.885 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:04:43.886 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:04:43.887 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:04:43.887 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:04:43.887 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:04:43.887 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:04:43.887 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:04:43.887 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:04:43.887 [main]  - Enter the number
+[INFO ] 2022-09-22 22:04:48.056 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-22 22:04:48.056 [main]  - First Name:
+[INFO ] 2022-09-22 22:04:53.518 [main]  - Last Name:
+[INFO ] 2022-09-22 22:04:56.171 [main]  - Address:
+[INFO ] 2022-09-22 22:04:58.207 [main]  - Email:
+[INFO ] 2022-09-22 22:05:01.158 [main]  - Phone Number:
+[INFO ] 2022-09-22 22:05:07.563 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-22 22:05:24.991 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-22 22:09:14.762 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:09:14.764 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:09:14.765 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:09:14.765 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:09:14.765 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:09:14.765 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:09:14.765 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:09:14.765 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:09:14.765 [main]  - Enter the number
+[INFO ] 2022-09-22 22:09:23.681 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:09:23.681 [main]  - First Name:
+[ERROR] 2022-09-22 22:09:28.760 [main]  - List of employees who are having first name as: k
+[INFO ] 2022-09-22 22:09:28.783 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:12:18.375 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:12:18.377 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:12:18.377 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:12:18.377 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:12:18.377 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:12:18.377 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:12:18.377 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:12:18.377 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:12:18.378 [main]  - Enter the number
+[INFO ] 2022-09-22 22:12:20.991 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 22:12:21.012 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 22:12:21.012 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:12:25.130 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:12:25.130 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:12:25.130 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:12:25.130 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:12:25.131 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:12:25.131 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:12:25.131 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:12:25.131 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:12:25.131 [main]  - Enter the number
+[INFO ] 2022-09-22 22:12:28.240 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:12:28.240 [main]  - First Name:
+[ERROR] 2022-09-22 22:12:30.124 [main]  - List of employees who are having first name as: k
+[INFO ] 2022-09-22 22:12:30.124 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:13:22.187 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:13:22.187 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:13:22.187 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:13:22.187 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:13:22.187 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:13:22.187 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:13:22.188 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:13:22.188 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:13:22.188 [main]  - Enter the number
+[INFO ] 2022-09-22 22:13:31.070 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:13:31.070 [main]  - Updated Email:
+[INFO ] 2022-09-22 22:13:37.124 [main]  - Phone Number:
+[INFO ] 2022-09-22 22:13:40.285 [main]  - Old Email:
+[INFO ] 2022-09-22 22:13:43.028 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:13:49.589 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:13:49.589 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:13:49.590 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:13:49.590 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:13:49.590 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:13:49.590 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:13:49.590 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:13:49.590 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:13:49.590 [main]  - Enter the number
+[INFO ] 2022-09-22 22:13:56.127 [main]  - 3->Find First Name and Phone Number of all Employees
+[ERROR] 2022-09-22 22:13:56.128 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 22:13:56.129 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:18:02.519 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:18:02.519 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:18:02.520 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:18:02.520 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:18:02.520 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:18:02.520 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:18:02.520 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:18:02.520 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:18:02.520 [main]  - Enter the number
+[INFO ] 2022-09-22 22:18:05.886 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:18:05.886 [main]  - Date Of Birth:
+[ERROR] 2022-09-22 22:18:15.587 [main]  - First name and PhoneNumber of all employees who have born on=2001-01-25
+[INFO ] 2022-09-22 22:18:15.588 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:18:24.133 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:18:24.133 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:18:24.133 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:18:24.133 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:18:24.133 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:18:24.134 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:18:24.134 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:18:24.134 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:18:24.134 [main]  - Enter the number
+[INFO ] 2022-09-22 22:18:29.155 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:18:29.156 [main]  - Date Of Birth:
+[ERROR] 2022-09-22 22:18:40.584 [main]  - First name and PhoneNumber of all employees who have born on=2001-01-15
+[INFO ] 2022-09-22 22:18:40.584 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:20:40.623 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:20:40.625 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:20:40.625 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:20:40.625 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:20:40.625 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:20:40.625 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:20:40.625 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:20:40.625 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:20:40.625 [main]  - Enter the number
+[INFO ] 2022-09-22 22:20:43.078 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:20:43.078 [main]  - Wedding Date:
+[ERROR] 2022-09-22 22:20:50.379 [main]  - First name and PhoneNumber of all employees who got married on=5555-01-01
+[INFO ] 2022-09-22 22:20:50.380 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:24:17.641 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:24:17.643 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:24:17.643 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:24:17.643 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:24:17.644 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:24:17.644 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:24:17.644 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:24:17.644 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:24:17.644 [main]  - Enter the number
+[INFO ] 2022-09-22 22:24:22.217 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:24:22.218 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-22 22:24:22.238 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:24:42.661 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-22 22:24:55.732 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:24:55.734 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:24:55.734 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:24:55.734 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:24:55.734 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:24:55.735 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:24:55.735 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:24:55.735 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:24:55.735 [main]  - Enter the number
+[INFO ] 2022-09-22 22:24:57.501 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-22 22:24:57.502 [main]  - First Name:
+[INFO ] 2022-09-22 22:25:00.428 [main]  - Last Name:
+[INFO ] 2022-09-22 22:25:03.511 [main]  - Address:
+[INFO ] 2022-09-22 22:25:05.716 [main]  - Email:
+[INFO ] 2022-09-22 22:25:08.248 [main]  - Phone Number:
+[INFO ] 2022-09-22 22:25:12.777 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-22 22:25:20.237 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-22 22:25:28.353 [main]  - PROVIDE VALID OPTION!!!!!!!!!!!
+[INFO ] 2022-09-22 22:25:28.353 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-22 22:25:36.963 [main]  - Wedding Date in the format (YYYY-MM-DD):
+[INFO ] 2022-09-22 22:25:44.545 [main]  - is Employee Created:=true
+[INFO ] 2022-09-22 22:25:44.545 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:25:58.648 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:25:58.649 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:25:58.649 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:25:58.649 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:25:58.649 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:25:58.649 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:25:58.649 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:25:58.650 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:25:58.650 [main]  - Enter the number
+[INFO ] 2022-09-22 22:26:01.242 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-22 22:26:01.243 [main]  - First Name:
+[INFO ] 2022-09-22 22:26:10.355 [main]  - Last Name:
+[INFO ] 2022-09-22 22:26:13.042 [main]  - Address:
+[INFO ] 2022-09-22 22:26:14.965 [main]  - Email:
+[INFO ] 2022-09-22 22:26:16.899 [main]  - Phone Number:
+[INFO ] 2022-09-22 22:26:24.654 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-22 22:26:31.887 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-22 22:26:34.615 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-22 22:28:11.980 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:28:11.982 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:28:11.982 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:28:11.982 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:28:11.982 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:28:11.982 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:28:11.982 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:28:11.982 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:28:11.983 [main]  - Enter the number
+[INFO ] 2022-09-22 22:28:14.451 [main]  - -------------Enter required details to add Employee---------------------
+[INFO ] 2022-09-22 22:28:14.452 [main]  - First Name:
+[INFO ] 2022-09-22 22:28:17.604 [main]  - Last Name:
+[INFO ] 2022-09-22 22:28:19.832 [main]  - Address:
+[INFO ] 2022-09-22 22:28:21.595 [main]  - Email:
+[INFO ] 2022-09-22 22:28:24.534 [main]  - Phone Number:
+[INFO ] 2022-09-22 22:28:27.111 [main]  - Date Of Birth in the format (YYYY-MM-DD):
+[INFO ] 2022-09-22 22:28:37.307 [main]  - Are you married? y/n or Y/N
+[INFO ] 2022-09-22 22:28:40.112 [main]  - is Employee Created:=true
+[INFO ] 2022-09-22 22:28:40.112 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:29:09.023 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:29:09.024 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:29:09.024 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:29:09.024 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:29:09.024 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:29:09.024 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:29:09.024 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:29:09.024 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:29:09.025 [main]  - Enter the number
+[INFO ] 2022-09-22 22:29:11.318 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:29:11.318 [main]  - First Name:
+[INFO ] 2022-09-22 22:29:16.725 [main]  - Email:
+[INFO ] 2022-09-22 22:29:20.269 [main]  - Does an employee with email: wer get deleted:=true
+[INFO ] 2022-09-22 22:29:20.270 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:29:35.087 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 22:29:35.087 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 22:29:35.088 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 22:29:35.088 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 22:29:35.088 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 22:29:35.088 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:29:35.088 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 22:29:35.088 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 22:29:35.088 [main]  - Enter the number
+[INFO ] 2022-09-22 22:29:40.772 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 22:29:40.774 [main]  - First Name:
+[INFO ] 2022-09-22 22:29:43.747 [main]  - Email:
+[INFO ] 2022-09-22 22:29:45.692 [main]  - Does an employee with email: 33 get deleted:=true
+[INFO ] 2022-09-22 22:29:45.692 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 22:29:54.802 [main]  - Successfully Exited from the Menu
+[INFO ] 2022-09-22 23:17:25.644 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 23:17:25.647 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 23:17:25.648 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 23:17:25.648 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 23:17:25.648 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 23:17:25.648 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 23:17:25.648 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 23:17:25.648 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 23:17:25.648 [main]  - Enter the number
+[INFO ] 2022-09-22 23:17:32.857 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 23:17:46.881 [main]  - First name and PhoneNumber of all employees who have born on=5555-05-05
+[INFO ] 2022-09-22 23:17:46.905 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 23:17:59.808 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 23:17:59.809 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 23:17:59.809 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 23:17:59.809 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 23:17:59.809 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 23:17:59.809 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 23:17:59.810 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 23:17:59.810 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 23:17:59.810 [main]  - Enter the number
+[INFO ] 2022-09-22 23:18:04.504 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 23:18:56.483 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 23:18:56.485 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 23:18:56.486 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 23:18:56.486 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 23:18:56.486 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 23:18:56.486 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 23:18:56.486 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 23:18:56.486 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 23:18:56.486 [main]  - Enter the number
+[INFO ] 2022-09-22 23:24:06.479 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 23:24:06.480 [main]  - Updated Email:
+[INFO ] 2022-09-22 23:24:37.439 [main]  - Old Email:
+[INFO ] 2022-09-22 23:25:02.051 [main]  - Does an employee with email: dhoni@gmail.com get updated:=true
+[INFO ] 2022-09-22 23:25:02.052 [main]  - Do you want to continue? y/n or Y/N
+[INFO ] 2022-09-22 23:25:17.624 [main]  - Enter number between 1 to 7
+[INFO ] 2022-09-22 23:25:17.625 [main]  - 1->Add Employee
+[INFO ] 2022-09-22 23:25:17.625 [main]  - 2->Find Employees By First Name
+[INFO ] 2022-09-22 23:25:17.625 [main]  - 3->Find First Name and Phone Number of all Employees
+[INFO ] 2022-09-22 23:25:17.625 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 23:25:17.625 [main]  - 5->Delete Employee by First Name
+[INFO ] 2022-09-22 23:25:17.625 [main]  - 6->Find First Name and Email of all Employees by Birthday
+[INFO ] 2022-09-22 23:25:17.625 [main]  - 7->Find First Name and Phone Number of all Employees by Wedding Date
+[INFO ] 2022-09-22 23:25:17.626 [main]  - Enter the number
+[INFO ] 2022-09-22 23:25:19.852 [main]  - 4->Update Email and PhoneNumber of a Particular Employee
+[INFO ] 2022-09-22 23:25:19.853 [main]  - Updated Email:
+[INFO ] 2022-09-23 00:02:27.061 [main]  - First name and PhoneNumber of all employees who have born on=2022-02-20
+[INFO ] 2022-09-23 00:05:02.311 [main]  - First name and PhoneNumber of all employees who have born on=2022-02-20
+[INFO ] 2022-09-23 00:16:10.491 [main]  - First name and PhoneNumber of all employees who have born on=2000-02-20
+[INFO ] 2022-09-23 00:19:00.460 [main]  - First name and PhoneNumber of all employees who have born on=2000-02-20
+[INFO ] 2022-09-23 00:23:00.722 [main]  - First name and PhoneNumber of all employees who have born on=2000-02-20
+[INFO ] 2022-09-23 00:26:13.793 [main]  - First name and PhoneNumber of all employees who have born on=2000-02-20
+[INFO ] 2022-09-23 00:28:21.899 [main]  - First name and PhoneNumber of all employees who have born on=2022-02-20
+[INFO ] 2022-09-23 01:15:21.051 [main]  - First name and PhoneNumber of all employees who got married on=2028-03-27
+[INFO ] 2022-09-23 01:16:21.985 [main]  - First name and PhoneNumber of all employees who got married on=2028-03-27
+[INFO ] 2022-09-23 01:19:29.142 [main]  - First name and PhoneNumber of all employees who got married on=2028-03-27
+[ERROR] 2022-09-23 01:20:04.189 [main]  - Employee with the given email: 33 cannot be found.So this employee cannot be updated
+[INFO ] 2022-09-23 01:21:23.321 [main]  - First name and PhoneNumber of all employees who have born on=2028-03-27
+[INFO ] 2022-09-23 01:24:16.667 [main]  - First name and PhoneNumber of all employees who have born on=2028-03-27
+[INFO ] 2022-09-23 01:24:42.059 [main]  - First name and PhoneNumber of all employees who got married on=2001-01-25
+[INFO ] 2022-09-23 01:24:55.833 [main]  - First name and PhoneNumber of all employees who got married on=2001-01-25
+[INFO ] 2022-09-23 01:25:54.956 [main]  - First name and PhoneNumber of all employees who got married on=2028-03-27
+[INFO ] 2022-09-23 01:26:16.469 [main]  - First name and PhoneNumber of all employees who have born on=2000-03-03
+[INFO ] 2022-09-23 14:49:20.637 [main]  - Does an employee with email: sach get deleted:=true
+[INFO ] 2022-09-23 14:50:36.725 [main]  - is Employee Created:=false
+[INFO ] 2022-09-23 15:05:02.234 [main]  - Does an employee with email: qwewfcvhjk get deleted:=true
+[ERROR] 2022-09-23 15:05:56.100 [main]  - is Employee Created:=false
+[INFO ] 2022-09-23 15:09:34.280 [main]  - is Employee Created:=false
+[ERROR] 2022-09-23 15:27:21.232 [main]  - is Employee Created:=false
+[INFO ] 2022-09-23 15:34:02.322 [main]  - Does an employee with email: ddff get deleted:=true
+[ERROR] 2022-09-23 15:35:05.442 [main]  - is Employee Created:=false
+[INFO ] 2022-09-23 15:52:04.644 [main]  - is Employee Created:=false
+[INFO ] 2022-09-23 16:24:59.498 [main]  - is Employee Created:=true
+[INFO ] 2022-09-23 21:09:24.819 [main]  - is Employee Created:=true
+[INFO ] 2022-09-23 21:14:57.811 [main]  - Does an employee with email: uuyyttrr get deleted:=true
+[INFO ] 2022-09-23 21:15:13.866 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-23 21:15:44.234 [main]  - First name and PhoneNumber of all employees who have born on=2000-03-03
+[INFO ] 2022-09-23 21:15:55.215 [main]  - First name and PhoneNumber of all employees who got married on=2022-12-24
+[INFO ] 2022-09-23 21:16:32.915 [main]  - Does an employee with email: eeb get updated:=true
+[INFO ] 2022-09-23 21:17:33.386 [main]  - is Employee Created:=true
